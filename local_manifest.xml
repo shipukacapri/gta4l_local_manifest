@@ -11,9 +11,9 @@
  <!-- Common device tree for gta4l (your fork) -->
   <project
       path="device/samsung/gta4l-common"
-      name="shipukacapri/android_device_samsung_gta4l-common"
+      name="LineageOS/android_device_samsung_gta4l-common"
       remote="github"
-      revision="dolby-23.2" />
+      revision="lineage-23.2" />
 
    <!-- Kernel tree (your fork) -->
   <project
