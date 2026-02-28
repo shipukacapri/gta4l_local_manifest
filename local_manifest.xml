@@ -11,7 +11,7 @@
  <!-- Common device tree for gta4l (your fork) -->
   <project
       path="device/samsung/gta4l-common"
-      name="LineageOS/android_device_samsung_gta4l-common"
+      name="shipukacapri/android_device_samsung_gta4l-common"
       remote="github"
       revision="lineage-23.2" />
 
