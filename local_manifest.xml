@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+
+    <remove-project name="android_hardware_qcom_sm7250_gps" />
+    <remove-project name="android_hardware_qcom_sm7250_display" />
+    <remove-project name="android_hardware_qcom_sm7250_media" />
   
   <!-- Device tree for Samsung Tab A7 gta4l (your fork) -->
   <project
