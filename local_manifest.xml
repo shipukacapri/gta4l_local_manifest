@@ -4,7 +4,11 @@
     <remove-project name="android_hardware_qcom_sm7250_gps" />
     <remove-project name="android_hardware_qcom_sm7250_display" />
     <remove-project name="android_hardware_qcom_sm7250_media" />
-  
+
+    <remove-project name="android_hardware_qcom_sm8150_gps" />
+    <remove-project name="android_hardware_qcom_sm8150_display" />
+    <remove-project name="android_hardware_qcom_sm8150_media" />
+
   <!-- Device tree for Samsung Tab A7 gta4l (your fork) -->
   <project
       path="device/samsung/gta4l"
