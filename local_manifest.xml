@@ -6,42 +6,42 @@
       path="device/samsung/gta4l"
       name="shipukacapri/android_device_samsung_gta4l"
       remote="github"
-      revision="inf-qp2" />
+      revision="evo14" />
 
  <!-- Common device tree for gta4l (your fork) -->
   <project
       path="device/samsung/gta4l-common"
       name="shipukacapri/android_device_samsung_gta4l-common"
       remote="github"
-      revision="inf-qp2" />
+      revision="lineage-21" />
 
    <!-- Kernel tree (your fork) -->
   <project
       path="kernel/samsung/sm6115"
       name="LineageOS/android_kernel_samsung_sm6115"
       remote="github"
-      revision="lineage-23.2" />
+      revision="lineage-21" />
   
   <!-- Vendor blobs for gta4l (your fork) -->
   <project
       path="vendor/samsung/gta4l"
       name="TheMuppets/proprietary_vendor_samsung_gta4l"
       remote="github"
-      revision="lineage-23.2" />
+      revision="lineage-21" />
 
    <!-- Common vendor blobs (your fork) -->
   <project
       path="vendor/samsung/gta4l-common"
       name="TheMuppets/proprietary_vendor_samsung_gta4l-common"
       remote="github"
-      revision="lineage-23.2" />
+      revision="lineage-21" />
   
 <!-- Motorola hardware (contains hardware/motorola/sepolicy/qti/SEPolicy.mk) -->
 <project
     path="hardware/samsung"
     name="LineageOS/android_hardware_samsung"
     remote="github"
-    revision="lineage-23.2" />
+    revision="lineage-21" />
   
 <!-- QCOM vendor SEPolicy (contains device/qcom/sepolicy_vndr/SEPolicy.mk) -->
 
