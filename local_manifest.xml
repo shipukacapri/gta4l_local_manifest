@@ -6,7 +6,7 @@
       path="device/samsung/gta4l"
       name="shipukacapri/android_device_samsung_gta4l"
       remote="github"
-      revision="inf-qp2" />
+      revision="luna-qp2" />
 
  <!-- Common device tree for gta4l (your fork) -->
   <project
@@ -36,12 +36,19 @@
       remote="github"
       revision="lineage-23.2" />
   
-<!-- Motorola hardware (contains hardware/motorola/sepolicy/qti/SEPolicy.mk) -->
+<!-- Samsung hardware (contains hardware/motorola/sepolicy/qti/SEPolicy.mk) -->
 <project
     path="hardware/samsung"
     name="LineageOS/android_hardware_samsung"
     remote="github"
     revision="lineage-23.2" />
+
+  <!-- dolby for moto -->
+  <project
+    name="Evolution-X-Devices/hardware_dolby"
+    path="hardware/dolby"
+    remote="github"
+    revision="bka" />
   
 <!-- QCOM vendor SEPolicy (contains device/qcom/sepolicy_vndr/SEPolicy.mk) -->
 
