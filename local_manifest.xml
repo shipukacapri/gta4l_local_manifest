@@ -6,7 +6,7 @@
       path="device/samsung/gta4l"
       name="shipsingh2002/android_device_samsung_gta4l"
       remote="github"
-      revision="elixir-14" />
+      revision="everest-14" />
 
  <!-- Common device tree for gta4l (your fork) -->
   <project
