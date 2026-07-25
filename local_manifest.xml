@@ -44,15 +44,5 @@
     revision="lineage-23.2" />
 
   <!-- dolby  -->
-  <project
-    name="Evolution-X-Devices/hardware_dolby"
-    path="hardware/dolby"
-    remote="github"
-    revision="bka" />
-  
-<!-- QCOM vendor SEPolicy (contains device/qcom/sepolicy_vndr/SEPolicy.mk) -->
-
-<!-- QCOM policy helpers: hardware/qcom/sepolicy
-     Some BoardConfig/common makefiles expect hardware/qcom policy helpers. -->
 
 </manifest>
