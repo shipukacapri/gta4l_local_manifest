@@ -39,9 +39,9 @@
 <!--  hardware (contains hardware/motorola/sepolicy/qti/SEPolicy.mk) -->
 <project
     path="hardware/samsung"
-    name="LineageOS/android_hardware_samsung"
+    name="shipukacapri/android_hardware_samsung"
     remote="github"
-    revision="lineage-23.2" />
+    revision="lineage-24.0" />
 
   <!-- dolby  -->
 
