@@ -6,14 +6,14 @@
       path="device/samsung/gta4l"
       name="shipukacapri/android_device_samsung_gta4l"
       remote="github"
-      revision="evo-a17" />
+      revision="ascp" />
 
  <!-- Common device tree for gta4l (your fork) -->
   <project
       path="device/samsung/gta4l-common"
       name="shipukacapri/android_device_samsung_gta4l-common"
       remote="github"
-      revision="android-17" />
+      revision="ascp" />
 
    <!-- Kernel tree (your fork) -->
   <project
