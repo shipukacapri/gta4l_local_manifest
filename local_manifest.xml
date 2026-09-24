@@ -6,7 +6,7 @@
       path="device/samsung/gta4l"
       name="shipukacapri/android_device_samsung_gta4l"
       remote="github"
-      revision="infinity-17" />
+      revision="infinity-17-vanilla" />
 
  <!-- Common device tree for gta4l (your fork) -->
   <project
